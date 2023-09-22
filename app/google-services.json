@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084974970498",
+    "project_id": "upload-ds3m-monica",
+    "storage_bucket": "upload-ds3m-monica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084974970498:android:b4cf323309e195f833e69b",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.upload_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZeceEd7pSdG5Uj835mwGQMT9EUYPxmZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
